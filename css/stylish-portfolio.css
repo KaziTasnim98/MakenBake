@@ -6,7 +6,7 @@
 
 @font-face {
   font-family: "Blackjack";
-  src: url("/fonts/blackjack.woff");
+  src: url("../fonts/blackjack.woff");
 }
 
 body,
